@@ -1,7 +1,5 @@
 package chainingHT;
 
-import linearProbingHT.Person;
-
 public class HashedObject {
 	public String key;
 	public Person person;
